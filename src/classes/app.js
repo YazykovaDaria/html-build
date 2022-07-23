@@ -1,6 +1,7 @@
 import Sidebar from './sidebar';
 import Site from './site';
 
+//разобраться со стилями и формами, сделать перерисовку сайта по пользовательским данным, поменять контент
 class App {
   constructor(model) {
     this.model = model;
