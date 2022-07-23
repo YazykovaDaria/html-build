@@ -1,5 +1,7 @@
 import image from '../assets/img/bag.jpg';
-import { TextBlock, TitleBlock, ImageBlock, ColumnsBlock } from '../classes/block';
+import {
+  TextBlock, TitleBlock, ImageBlock, ColumnsBlock,
+} from '../classes/block';
 
 const model = [
   new TitleBlock('Hello JS', {
